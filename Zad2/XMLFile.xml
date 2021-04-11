@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InterestRatesMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InterestRates>
+    <InterestRate>
+      <Code>EURIBOR6M STN</Code>
+      <FlexId>EUR_6M_001</FlexId>
+      <FlexDescription>Šestomesečni euribor</FlexDescription>
+      
+    </InterestRate>
+    <InterestRate>
+      <Code>EURIBOR 3M STN</Code>
+      <FlexId>EUR_3M_001</FlexId>
+      <FlexDescription>Tromesečni euribor</FlexDescription>
+      
+    </InterestRate>
+    <InterestRate>
+      <Code>EURIBOR3M STN</Code>
+      <FlexId>EUR_3M_001</FlexId>
+      <FlexDescription>Tromesečni euribor</FlexDescription>
+     
+    </InterestRate>
+    <InterestRate>
+      <Code>BELIBOR 6M STN</Code>
+      <FlexId>BEL_6M_001</FlexId>
+      <FlexDescription>Šestomesečni belibor</FlexDescription>
+      
+    </InterestRate>
+    <InterestRate>
+      <Code>ZZK_EUR</Code>
+      <FlexId>ZZK_EUR</FlexId>
+      <FlexDescription>Zatezna kamata</FlexDescription>
+      
+    </InterestRate>
+  </InterestRates>
+</InterestRatesMap>
